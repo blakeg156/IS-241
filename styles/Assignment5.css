@@ -1,0 +1,4 @@
+section.custlist {background-color: #FFFFCC; visibility: hidden; position: absolute; width: 600px}
+section.custhistory {background-color: #DCDCDC; visibility: hidden; position: relative; width: 600px}
+section.custorders {background-color: #DCDCDC; visibility: hidden; position: static; width: 600px}
+#orderdisplay {background-color: #FFFFCC; }
