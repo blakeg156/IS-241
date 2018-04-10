@@ -26,8 +26,6 @@ function MenuChoice()
     }
 }
 
-
-
 function GetList()
 {
     var objRequest = new XMLHttpRequest();
@@ -64,17 +62,6 @@ function GetList()
             
             document.getElementById("listdisplay").innerHTML = displaytext; }
 
-
-
-
-
-
-
-
-
-
-
-
 function GetHistory()
 {
     var objRequest = new XMLHttpRequest(); //Create AJAX request object
@@ -108,15 +95,9 @@ function GetHistory()
                 displaytext += "<tr><td>" + result[count].ProductName + "</td><td>" + result[count].Total + "</td></tr>" ; 
             }
             result+="</table>";
-            document.getElementById("historydisplay").innerHTML = displaytext; }
+            document.getElementById("historydisplay").innerHTML = displaytext;
+            }
             
-
-
-
-
-
-
-
 function GetOrders()
 {
     var objRequest = new XMLHttpRequest(); //Create AJAX request object
@@ -152,5 +133,5 @@ function GetOrders()
                 "</td><td>" + result.GetOrdersForCustomerResult[count].ShipPostcode + "</td><td>" + result.GetOrdersForCustomerResult[count].ShippedDate + "</td></tr>" ; 
             }
             result+="</table>";
-            document.getElementById("orderdisplay").innerHTML = displaytext; }
-            
+            document.getElementById("orderdisplay").innerHTML = displaytext;
+            }

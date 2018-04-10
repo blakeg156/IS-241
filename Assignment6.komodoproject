@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="3f6664ed-018a-1146-aef4-5a126887cf4e" kpf_version="5" name="Assignment6.komodoproject">
+<file id="00f125c2-cc55-6840-8dac-e03f2a3f9ad8" idref="3f6664ed-018a-1146-aef4-5a126887cf4e" name="Assignment6.js" url="javascript/Assignment6.js">
+</file>
+<file id="94728348-701d-8844-ba67-2759df5bb00f" idref="3f6664ed-018a-1146-aef4-5a126887cf4e" name="config6.xml" url="config6.xml">
+</file>
+<file id="b8d16992-f6af-2240-b905-091e8b6fb1f0" idref="3f6664ed-018a-1146-aef4-5a126887cf4e" name="Assignment6.css" url="styles/Assignment6.css">
+</file>
+<file id="bcc804ad-3d13-ac4b-a943-afaeb8a5501f" idref="3f6664ed-018a-1146-aef4-5a126887cf4e" name="index6.html" url="index6.html">
+</file>
+<preference-set idref="3f6664ed-018a-1146-aef4-5a126887cf4e" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
